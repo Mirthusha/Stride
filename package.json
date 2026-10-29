@@ -1,0 +1,18 @@
+{
+  "name": "stride",
+  "version": "1.0.0",
+  "description": "Stride - Collaborative Agile Project Management Platform inspired by Zoho Sprints",
+  "scripts": {
+    "dev": "npm run dev:server & npm run dev:client",
+    "dev:server": "npm --prefix server run dev",
+    "dev:client": "npm --prefix client run dev",
+    "build:client": "npm --prefix client run build",
+    "build:server": "npm --prefix server run build",
+    "build": "npm run build:server && npm run build:client",
+    "test:server": "npm --prefix server run test",
+    "test": "npm run test:server"
+  },
+  "keywords": ["agile", "scrum", "kanban", "sprints", "backlog", "project-management"],
+  "author": "Stride Team",
+  "license": "MIT"
+}

@@ -1,0 +1,132 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --bg-mint-gradient: radial-gradient(circle at 10% 20%, rgba(202, 237, 218, 0.45) 0%, transparent 40%),
+                        radial-gradient(circle at 90% 10%, rgba(161, 223, 191, 0.35) 0%, transparent 45%),
+                        radial-gradient(circle at 50% 80%, rgba(229, 246, 236, 0.7) 0%, transparent 60%),
+                        #f4faf6;
+  }
+
+  body {
+    background: var(--bg-mint-gradient);
+    background-attachment: fixed;
+    color: #111827;
+    font-feature-settings: "cv02", "cv03", "cv04", "cv11";
+  }
+}
+
+/* Ambient organic blurred background spheres */
+.ambient-bg {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  pointer-events: none;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.ambient-blob-1 {
+  position: absolute;
+  top: -10%;
+  left: 15%;
+  width: 480px;
+  height: 480px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(161, 223, 191, 0.4) 0%, rgba(161, 223, 191, 0) 70%);
+  filter: blur(60px);
+  animation: floatSlow 20s ease-in-out infinite alternate;
+}
+
+.ambient-blob-2 {
+  position: absolute;
+  top: 40%;
+  right: -5%;
+  width: 550px;
+  height: 550px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(111, 202, 158, 0.3) 0%, rgba(111, 202, 158, 0) 70%);
+  filter: blur(80px);
+  animation: floatSlow 25s ease-in-out infinite alternate-reverse;
+}
+
+.ambient-blob-3 {
+  position: absolute;
+  bottom: -10%;
+  left: 20%;
+  width: 600px;
+  height: 600px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(202, 237, 218, 0.6) 0%, rgba(202, 237, 218, 0) 70%);
+  filter: blur(90px);
+}
+
+@keyframes floatSlow {
+  0% { transform: translateY(0) scale(1); }
+  50% { transform: translateY(-30px) scale(1.05); }
+  100% { transform: translateY(20px) scale(0.95); }
+}
+
+/* Elegant glass cards matching reference design */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.82);
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  border: 1px solid rgba(22, 60, 36, 0.08);
+}
+
+.glass-panel-subtle {
+  background: rgba(255, 255, 255, 0.55);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+  border: 1px solid rgba(22, 60, 36, 0.06);
+}
+
+.glass-panel-elevated {
+  background: rgba(255, 255, 255, 0.94);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(22, 60, 36, 0.12);
+  box-shadow: 0 12px 32px -4px rgba(22, 60, 36, 0.07);
+}
+
+/* Outlined pill buttons matching reference design */
+.btn-pill {
+  @apply inline-flex items-center justify-center px-4 py-2 text-sm font-medium rounded-full transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-mint-500 focus:ring-offset-2;
+}
+
+.btn-pill-primary {
+  @apply btn-pill bg-zinc-900 text-white hover:bg-zinc-800 border border-zinc-900 shadow-sm active:scale-95;
+}
+
+.btn-pill-outline {
+  @apply btn-pill bg-white/70 text-zinc-900 border border-zinc-900/80 hover:bg-zinc-900 hover:text-white shadow-sm active:scale-95;
+}
+
+.btn-pill-mint {
+  @apply btn-pill bg-mint-100 text-mint-950 border border-mint-300 hover:bg-mint-200 active:scale-95;
+}
+
+.btn-pill-subtle {
+  @apply btn-pill bg-transparent text-zinc-700 hover:bg-zinc-100/70 border border-transparent;
+}
+
+/* Custom minimal scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(33, 74, 56, 0.18);
+  border-radius: 9999px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(33, 74, 56, 0.32);
+}

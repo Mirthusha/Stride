@@ -1,0 +1,1605 @@
+{
+  "users": [
+    {
+      "id": "usr_1793212515018",
+      "email": "alice@alpha.io",
+      "display_name": "Alice Admin",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Alice%20Admin",
+      "created_at": "2026-10-28T18:35:15.018Z",
+      "updated_at": "2026-10-28T18:35:15.018Z"
+    },
+    {
+      "id": "usr_1793212515089",
+      "email": "bob@beta.org",
+      "display_name": "Bob Builder",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Bob%20Builder",
+      "created_at": "2026-10-28T18:35:15.089Z",
+      "updated_at": "2026-10-28T18:35:15.089Z"
+    },
+    {
+      "id": "usr_1793212638671",
+      "email": "alice_1793212638528@alpha.io",
+      "display_name": "Alice Admin",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Alice%20Admin",
+      "created_at": "2026-10-28T18:37:18.671Z",
+      "updated_at": "2026-10-28T18:37:18.671Z"
+    },
+    {
+      "id": "usr_1793212638742",
+      "email": "bob_1793212638528@beta.org",
+      "display_name": "Bob Builder",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Bob%20Builder",
+      "created_at": "2026-10-28T18:37:18.742Z",
+      "updated_at": "2026-10-28T18:37:18.742Z"
+    },
+    {
+      "id": "usr_1793212934042",
+      "email": "mirthusha@gmail.com",
+      "display_name": "Mirthusha",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Mirthusha",
+      "created_at": "2026-10-28T18:42:14.042Z",
+      "updated_at": "2026-10-28T18:42:14.042Z"
+    },
+    {
+      "id": "usr_1793215658081",
+      "email": "admin.p2.1793215657827@testorg.io",
+      "display_name": "Morgan Avery",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Morgan%20Avery",
+      "created_at": "2026-10-28T19:27:38.081Z",
+      "updated_at": "2026-10-28T19:27:38.081Z"
+    },
+    {
+      "id": "usr_1793215658099",
+      "email": "collab.p2.1793215658092@testorg.io",
+      "display_name": "Alex Harper",
+      "role": "Developer",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Alex%20Harper",
+      "created_at": "2026-10-28T19:27:38.099Z",
+      "updated_at": "2026-10-28T19:27:38.099Z"
+    },
+    {
+      "id": "usr_1793216451246",
+      "email": "admin.p3.1793216450922@stridesprint.io",
+      "display_name": "Jordan Reed",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Jordan%20Reed",
+      "created_at": "2026-10-28T19:40:51.246Z",
+      "updated_at": "2026-10-28T19:40:51.246Z"
+    },
+    {
+      "id": "usr_1793216451267",
+      "email": "dev.p3.1793216451257@stridesprint.io",
+      "display_name": "Casey Quinn",
+      "role": "Developer",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Casey%20Quinn",
+      "created_at": "2026-10-28T19:40:51.267Z",
+      "updated_at": "2026-10-28T19:40:51.267Z"
+    },
+    {
+      "id": "usr_1793216451275",
+      "email": "outsider.p3.1793216451270@foreign.io",
+      "display_name": "Dana Vance",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Dana%20Vance",
+      "created_at": "2026-10-28T19:40:51.275Z",
+      "updated_at": "2026-10-28T19:40:51.275Z"
+    },
+    {
+      "id": "usr_1793216452429",
+      "email": "member3.1793216452424@testorg.io",
+      "display_name": "Taylor Brooks",
+      "role": "Developer",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Taylor%20Brooks",
+      "created_at": "2026-10-28T19:40:52.429Z",
+      "updated_at": "2026-10-28T19:40:52.429Z"
+    },
+    {
+      "id": "usr_1793216974351",
+      "email": "admin.p3.1793216974301@stridesprint.io",
+      "display_name": "Jordan Reed",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Jordan%20Reed",
+      "created_at": "2026-10-28T19:49:34.351Z",
+      "updated_at": "2026-10-28T19:49:34.351Z"
+    },
+    {
+      "id": "usr_1793216974381",
+      "email": "dev.p3.1793216974367@stridesprint.io",
+      "display_name": "Casey Quinn",
+      "role": "Developer",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Casey%20Quinn",
+      "created_at": "2026-10-28T19:49:34.381Z",
+      "updated_at": "2026-10-28T19:49:34.381Z"
+    },
+    {
+      "id": "usr_1793216974393",
+      "email": "outsider.p3.1793216974387@foreign.io",
+      "display_name": "Dana Vance",
+      "role": "WorkspaceAdmin",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Dana%20Vance",
+      "created_at": "2026-10-28T19:49:34.393Z",
+      "updated_at": "2026-10-28T19:49:34.393Z"
+    },
+    {
+      "id": "usr_1793216976932",
+      "email": "member3.1793216976926@testorg.io",
+      "display_name": "Taylor Brooks",
+      "role": "Developer",
+      "avatar_url": "https://api.dicebear.com/7.x/initials/svg?seed=Taylor%20Brooks",
+      "created_at": "2026-10-28T19:49:36.932Z",
+      "updated_at": "2026-10-28T19:49:36.932Z"
+    }
+  ],
+  "workspaces": [
+    {
+      "name": "Alpha Enterprise Lab",
+      "description": "Private workspace for Alpha research",
+      "owner_id": "usr_1793212515018",
+      "id": "ws_1793212515048",
+      "created_at": "2026-10-28T18:35:15.048Z",
+      "updated_at": "2026-10-28T18:35:15.048Z"
+    },
+    {
+      "name": "Beta Cloud Studio",
+      "description": "Private workspace for Beta apps",
+      "owner_id": "usr_1793212515089",
+      "id": "ws_1793212515103",
+      "created_at": "2026-10-28T18:35:15.103Z",
+      "updated_at": "2026-10-28T18:35:15.103Z"
+    },
+    {
+      "name": "Alpha Enterprise Lab 1793212638528",
+      "description": "Private workspace for Alpha research",
+      "owner_id": "usr_1793212638671",
+      "id": "ws_1793212638703",
+      "created_at": "2026-10-28T18:37:18.703Z",
+      "updated_at": "2026-10-28T18:37:18.703Z"
+    },
+    {
+      "name": "Beta Cloud Studio 1793212638528",
+      "description": "Private workspace for Beta apps",
+      "owner_id": "usr_1793212638742",
+      "id": "ws_1793212638753",
+      "created_at": "2026-10-28T18:37:18.753Z",
+      "updated_at": "2026-10-28T18:37:18.753Z"
+    },
+    {
+      "name": "Developer Workspace Test",
+      "description": "Created by dev",
+      "owner_id": "usr_1793212934042",
+      "id": "ws_1793213860217",
+      "created_at": "2026-10-28T18:57:40.217Z",
+      "updated_at": "2026-10-28T18:57:40.217Z"
+    },
+    {
+      "name": "Quality Engineering Lab",
+      "description": "Advanced testing, metrics, and automation workspace",
+      "owner_id": "usr_1793215658081",
+      "id": "ws_1793215658111",
+      "created_at": "2026-10-28T19:27:38.111Z",
+      "updated_at": "2026-10-28T19:27:38.111Z"
+    },
+    {
+      "name": "DevOps & Agile Core Hub",
+      "description": "Workspace for Part 3 integrations and release testing",
+      "owner_id": "usr_1793216451246",
+      "id": "ws_1793216451285",
+      "created_at": "2026-10-28T19:40:51.285Z",
+      "updated_at": "2026-10-28T19:40:51.285Z"
+    },
+    {
+      "name": "Foreign Org Workspace",
+      "description": "Completely isolated workspace",
+      "owner_id": "usr_1793216451275",
+      "id": "ws_1793216451313",
+      "created_at": "2026-10-28T19:40:51.313Z",
+      "updated_at": "2026-10-28T19:40:51.313Z"
+    },
+    {
+      "name": "DevOps & Agile Core Hub",
+      "description": "Workspace for Part 3 integrations and release testing",
+      "owner_id": "usr_1793216974351",
+      "id": "ws_1793216974405",
+      "created_at": "2026-10-28T19:49:34.405Z",
+      "updated_at": "2026-10-28T19:49:34.405Z"
+    },
+    {
+      "name": "Foreign Org Workspace",
+      "description": "Completely isolated workspace",
+      "owner_id": "usr_1793216974393",
+      "id": "ws_1793216974440",
+      "created_at": "2026-10-28T19:49:34.440Z",
+      "updated_at": "2026-10-28T19:49:34.440Z"
+    }
+  ],
+  "workspace_members": [
+    {
+      "id": "wsm_1793212515048",
+      "workspace_id": "ws_1793212515048",
+      "user_id": "usr_1793212515018",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T18:35:15.048Z"
+    },
+    {
+      "id": "wsm_1793212515103",
+      "workspace_id": "ws_1793212515103",
+      "user_id": "usr_1793212515089",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T18:35:15.103Z"
+    },
+    {
+      "id": "wsm_1793212638703",
+      "workspace_id": "ws_1793212638703",
+      "user_id": "usr_1793212638671",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T18:37:18.703Z"
+    },
+    {
+      "id": "wsm_1793212638753",
+      "workspace_id": "ws_1793212638753",
+      "user_id": "usr_1793212638742",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T18:37:18.753Z"
+    },
+    {
+      "id": "wsm_1793213860217",
+      "workspace_id": "ws_1793213860217",
+      "user_id": "usr_1793212934042",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T18:57:40.217Z"
+    },
+    {
+      "id": "wsm_1793215658111",
+      "workspace_id": "ws_1793215658111",
+      "user_id": "usr_1793215658081",
+      "role": "Developer",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:27:38.111Z"
+    },
+    {
+      "id": "wsm_1793215658129",
+      "workspace_id": "ws_1793215658111",
+      "user_id": "usr_1793215658099",
+      "role": "Developer",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:27:38.129Z"
+    },
+    {
+      "id": "wsm_1793216451285",
+      "workspace_id": "ws_1793216451285",
+      "user_id": "usr_1793216451246",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:40:51.285Z"
+    },
+    {
+      "id": "wsm_1793216451295",
+      "workspace_id": "ws_1793216451285",
+      "user_id": "usr_1793216451267",
+      "role": "Developer",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:40:51.295Z"
+    },
+    {
+      "id": "wsm_1793216451313",
+      "workspace_id": "ws_1793216451313",
+      "user_id": "usr_1793216451275",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:40:51.313Z"
+    },
+    {
+      "id": "wsm_1793216452435",
+      "workspace_id": "ws_1793216451285",
+      "user_id": "usr_1793216452429",
+      "role": "Developer",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:40:52.435Z"
+    },
+    {
+      "id": "wsm_1793216974405",
+      "workspace_id": "ws_1793216974405",
+      "user_id": "usr_1793216974351",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:49:34.405Z"
+    },
+    {
+      "id": "wsm_1793216974420",
+      "workspace_id": "ws_1793216974405",
+      "user_id": "usr_1793216974381",
+      "role": "Developer",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:49:34.420Z"
+    },
+    {
+      "id": "wsm_1793216974440",
+      "workspace_id": "ws_1793216974440",
+      "user_id": "usr_1793216974393",
+      "role": "WorkspaceAdmin",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:49:34.440Z"
+    },
+    {
+      "id": "wsm_1793216976941",
+      "workspace_id": "ws_1793216974405",
+      "user_id": "usr_1793216976932",
+      "role": "Developer",
+      "membership_status": "active",
+      "joined_at": "2026-10-28T19:49:36.941Z"
+    }
+  ],
+  "invitations": [
+    {
+      "id": "inv_1793215658148",
+      "workspace_id": "ws_1793215658111",
+      "email": "new.collaborator@stride.dev",
+      "role": "Developer",
+      "invited_by": "usr_1793215658081",
+      "status": "accepted",
+      "created_at": "2026-10-28T19:27:38.148Z",
+      "expires_at": "2026-11-04T19:27:38.148Z"
+    }
+  ],
+  "projects": [
+    {
+      "workspace_id": "ws_1793212515048",
+      "name": "Alpha Core Engine",
+      "description": "Autonomous core services",
+      "project_key": "ACE",
+      "owner_id": "usr_1793212515018",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793212515062",
+      "created_at": "2026-10-28T18:35:15.062Z",
+      "updated_at": "2026-10-28T18:35:15.062Z"
+    },
+    {
+      "workspace_id": "ws_1793212638703",
+      "name": "Alpha Core Engine",
+      "description": "Autonomous core services",
+      "project_key": "ACE",
+      "owner_id": "usr_1793212638671",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793212638719",
+      "created_at": "2026-10-28T18:37:18.719Z",
+      "updated_at": "2026-10-28T18:37:18.719Z"
+    },
+    {
+      "workspace_id": "ws_1793213860217",
+      "name": "Dev Core Project",
+      "description": "",
+      "project_key": "DCP",
+      "owner_id": "usr_1793212934042",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793213872668",
+      "created_at": "2026-10-28T18:57:52.668Z",
+      "updated_at": "2026-10-28T18:57:52.668Z"
+    },
+    {
+      "workspace_id": "ws_1793213860217",
+      "name": "Hotel management website",
+      "description": "",
+      "project_key": "HOTEL",
+      "owner_id": "usr_1793212934042",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793214117775",
+      "created_at": "2026-10-28T19:01:57.775Z",
+      "updated_at": "2026-10-28T19:01:57.775Z"
+    },
+    {
+      "workspace_id": "ws_1793215658111",
+      "name": "Agile Delivery Core",
+      "description": "Quality and delivery management",
+      "project_key": "ADC",
+      "owner_id": "usr_1793215658081",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793215658120",
+      "created_at": "2026-10-28T19:27:38.120Z",
+      "updated_at": "2026-10-28T19:27:38.120Z"
+    },
+    {
+      "workspace_id": "ws_1793216451285",
+      "name": "Nexus Release Platform",
+      "description": "Production release platform",
+      "project_key": "NEXUS",
+      "owner_id": "usr_1793216451246",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793216451303",
+      "created_at": "2026-10-28T19:40:51.303Z",
+      "updated_at": "2026-10-28T19:40:51.303Z"
+    },
+    {
+      "workspace_id": "ws_1793216451313",
+      "name": "Foreign Project",
+      "description": "Isolated foreign project",
+      "project_key": "FOR",
+      "owner_id": "usr_1793216451275",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793216451320",
+      "created_at": "2026-10-28T19:40:51.320Z",
+      "updated_at": "2026-10-28T19:40:51.320Z"
+    },
+    {
+      "workspace_id": "ws_1793216974405",
+      "name": "Nexus Release Platform",
+      "description": "Production release platform",
+      "project_key": "NEXUS",
+      "owner_id": "usr_1793216974351",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793216974430",
+      "created_at": "2026-10-28T19:49:34.430Z",
+      "updated_at": "2026-10-28T19:49:34.430Z"
+    },
+    {
+      "workspace_id": "ws_1793216974440",
+      "name": "Foreign Project",
+      "description": "Isolated foreign project",
+      "project_key": "FOR",
+      "owner_id": "usr_1793216974393",
+      "start_date": "2026-10-28",
+      "target_date": "2027-01-26",
+      "status": "active",
+      "id": "proj_1793216974452",
+      "created_at": "2026-10-28T19:49:34.452Z",
+      "updated_at": "2026-10-28T19:49:34.452Z"
+    }
+  ],
+  "project_members": [
+    {
+      "id": "prm_1793212515062",
+      "project_id": "proj_1793212515062",
+      "user_id": "usr_1793212515018",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T18:35:15.062Z"
+    },
+    {
+      "id": "prm_1793212638719",
+      "project_id": "proj_1793212638719",
+      "user_id": "usr_1793212638671",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T18:37:18.719Z"
+    },
+    {
+      "id": "prm_1793213872668",
+      "project_id": "proj_1793213872668",
+      "user_id": "usr_1793212934042",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T18:57:52.668Z"
+    },
+    {
+      "id": "prm_1793214117775",
+      "project_id": "proj_1793214117775",
+      "user_id": "usr_1793212934042",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T19:01:57.775Z"
+    },
+    {
+      "id": "prm_1793215658120",
+      "project_id": "proj_1793215658120",
+      "user_id": "usr_1793215658081",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T19:27:38.120Z"
+    },
+    {
+      "id": "prm_1793216451304",
+      "project_id": "proj_1793216451303",
+      "user_id": "usr_1793216451246",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T19:40:51.303Z"
+    },
+    {
+      "id": "prm_1793216451320",
+      "project_id": "proj_1793216451320",
+      "user_id": "usr_1793216451275",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T19:40:51.320Z"
+    },
+    {
+      "id": "prm_1793216974430",
+      "project_id": "proj_1793216974430",
+      "user_id": "usr_1793216974351",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T19:49:34.430Z"
+    },
+    {
+      "id": "prm_1793216974452",
+      "project_id": "proj_1793216974452",
+      "user_id": "usr_1793216974393",
+      "role": "ProductOwner",
+      "membership_status": "active",
+      "created_at": "2026-10-28T19:49:34.452Z"
+    }
+  ],
+  "epics": [],
+  "sprints": [
+    {
+      "project_id": "proj_1793214117775",
+      "name": "Sprint 1 – Core Features",
+      "goal": "Develop the basic hotel management features, including room management and booking functionality.",
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-11",
+      "capacity_points": 15,
+      "status": "active",
+      "id": "sprint_1793214329959",
+      "created_at": "2026-10-28T19:05:29.959Z",
+      "updated_at": "2026-10-28T19:05:38.612Z"
+    },
+    {
+      "project_id": "proj_1793216451303",
+      "name": "Sprint 24 - DevOps Pipeline",
+      "goal": "",
+      "start_date": "2026-10-28T19:40:51.324Z",
+      "end_date": "2026-11-11T19:40:51.324Z",
+      "capacity_points": 40,
+      "status": "planning",
+      "id": "sprint_1793216451331",
+      "created_at": "2026-10-28T19:40:51.331Z",
+      "updated_at": "2026-10-28T19:40:51.331Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "name": "Sprint 24 - DevOps Pipeline",
+      "goal": "",
+      "start_date": "2026-10-28T19:49:34.456Z",
+      "end_date": "2026-11-11T19:49:34.456Z",
+      "capacity_points": 40,
+      "status": "planning",
+      "id": "sprint_1793216974465",
+      "created_at": "2026-10-28T19:49:34.465Z",
+      "updated_at": "2026-10-28T19:49:34.465Z"
+    },
+    {
+      "project_id": "proj_1793213872668",
+      "name": "Sprint 30 - Production Readiness 1793217220336",
+      "goal": "",
+      "start_date": "2026-10-28T19:53:40.336Z",
+      "end_date": "2026-11-11T19:53:40.338Z",
+      "capacity_points": 30,
+      "status": "planning",
+      "id": "sprint_1793217220345",
+      "created_at": "2026-10-28T19:53:40.345Z",
+      "updated_at": "2026-10-28T19:53:40.345Z"
+    },
+    {
+      "project_id": "proj_1793214117775",
+      "name": "Room booking",
+      "goal": "Implement room availability and booking functionality for the hotel management website.",
+      "start_date": "2026-10-28",
+      "end_date": "2026-11-11",
+      "capacity_points": 35,
+      "status": "planning",
+      "id": "sprint_1793217863375",
+      "created_at": "2026-10-28T20:04:23.375Z",
+      "updated_at": "2026-10-28T20:04:23.375Z"
+    }
+  ],
+  "work_items": [
+    {
+      "project_id": "proj_1793212515062",
+      "epic_id": null,
+      "parent_id": null,
+      "title": "Architect distributed consensus protocol",
+      "description": "",
+      "type": "story",
+      "status": "todo",
+      "priority": "high",
+      "assignee_id": null,
+      "reporter_id": "usr_1793212515018",
+      "story_points": 5,
+      "start_date": null,
+      "due_date": null,
+      "sort_order": 0,
+      "labels": [],
+      "sprint_id": null,
+      "id": "wi_1793212515076",
+      "item_key": "ACE-101",
+      "created_at": "2026-10-28T18:35:15.076Z",
+      "updated_at": "2026-10-28T18:35:15.076Z"
+    },
+    {
+      "project_id": "proj_1793212638719",
+      "epic_id": null,
+      "parent_id": null,
+      "title": "Architect distributed consensus protocol",
+      "description": "",
+      "type": "story",
+      "status": "todo",
+      "priority": "high",
+      "assignee_id": null,
+      "reporter_id": "usr_1793212638671",
+      "story_points": 5,
+      "start_date": null,
+      "due_date": null,
+      "sort_order": 0,
+      "labels": [],
+      "sprint_id": null,
+      "id": "wi_1793212638731",
+      "item_key": "ACE-101",
+      "created_at": "2026-10-28T18:37:18.731Z",
+      "updated_at": "2026-10-28T18:37:18.731Z"
+    },
+    {
+      "project_id": "proj_1793214117775",
+      "epic_id": null,
+      "parent_id": null,
+      "title": "Manage Hotel Room Bookings",
+      "description": "As a hotel administrator, I want to manage room reservations so that I can track bookings, availability, and guest details.",
+      "type": "story",
+      "status": "todo",
+      "priority": "high",
+      "assignee_id": null,
+      "reporter_id": "usr_1793212934042",
+      "story_points": 5,
+      "start_date": null,
+      "due_date": "2026-10-29",
+      "sort_order": 0,
+      "labels": [
+        "booking",
+        "hotel",
+        "backend"
+      ],
+      "sprint_id": null,
+      "id": "wi_1793214230011",
+      "item_key": "HOTEL-101",
+      "created_at": "2026-10-28T19:03:50.011Z",
+      "updated_at": "2026-10-28T20:00:33.171Z"
+    },
+    {
+      "project_id": "proj_1793215658120",
+      "title": "Implement Multi-User Real-time Sync",
+      "description": "Enable cross-user collaboration via WebSockets/Supabase",
+      "type": "story",
+      "priority": "critical",
+      "status": "todo",
+      "epic_id": null,
+      "sprint_id": null,
+      "parent_id": null,
+      "assignee_id": null,
+      "reporter_id": "usr_1793215658081",
+      "story_points": 8,
+      "labels": [],
+      "due_date": null,
+      "start_date": null,
+      "release_id": "rel_1793215658334",
+      "custom_fields": {},
+      "id": "wi_1793215658168",
+      "item_key": "ADC-101",
+      "sort_order": 0,
+      "created_at": "2026-10-28T19:27:38.168Z",
+      "updated_at": "2026-10-28T19:27:38.402Z"
+    },
+    {
+      "project_id": "proj_1793215658120",
+      "title": "[Defect]: Security bypass on delete route",
+      "description": "Linked to failed test case: Verify unauthorized user cannot delete projects\n\nActual Result:\nExpected 403 Forbidden, but received 200 OK\n\nPermissions middleware failed to reject unauthorized user",
+      "type": "bug",
+      "priority": "critical",
+      "status": "todo",
+      "epic_id": null,
+      "sprint_id": null,
+      "parent_id": null,
+      "assignee_id": null,
+      "reporter_id": "usr_1793215658081",
+      "story_points": 3,
+      "labels": [
+        "qa",
+        "defect",
+        "automated-test"
+      ],
+      "due_date": null,
+      "start_date": null,
+      "release_id": null,
+      "custom_fields": {},
+      "id": "wi_1793215658309",
+      "item_key": "ADC-102",
+      "sort_order": 0,
+      "created_at": "2026-10-28T19:27:38.309Z",
+      "updated_at": "2026-10-28T19:27:38.309Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "title": "Implement automated changelog generator",
+      "description": "",
+      "type": "story",
+      "priority": "high",
+      "status": "done",
+      "epic_id": null,
+      "sprint_id": "sprint_1793216974465",
+      "parent_id": null,
+      "assignee_id": null,
+      "reporter_id": "usr_1793216974351",
+      "story_points": 5,
+      "labels": [],
+      "due_date": null,
+      "start_date": null,
+      "release_id": "rel_1793216974505",
+      "custom_fields": {},
+      "id": "wi_1793216974479",
+      "item_key": "NEXUS-101",
+      "sort_order": 0,
+      "created_at": "2026-10-28T19:49:34.479Z",
+      "updated_at": "2026-10-28T19:49:34.490Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "title": "Add automated database migration test to GitHub Actions pipeline.",
+      "description": "Created from Sprint Retrospective \"Sprint 24 Retrospective: Pipeline Velocity\":\n\nAdd automated database migration test to GitHub Actions pipeline.",
+      "type": "task",
+      "priority": "medium",
+      "status": "todo",
+      "epic_id": null,
+      "sprint_id": null,
+      "parent_id": null,
+      "assignee_id": "usr_1793216974381",
+      "reporter_id": "usr_1793216974351",
+      "story_points": null,
+      "labels": [],
+      "due_date": null,
+      "start_date": null,
+      "release_id": null,
+      "custom_fields": {},
+      "id": "wi_1793216977022",
+      "item_key": "NEXUS-102",
+      "sort_order": 1,
+      "created_at": "2026-10-28T19:49:37.022Z",
+      "updated_at": "2026-10-28T19:49:37.022Z"
+    },
+    {
+      "project_id": "proj_1793213872668",
+      "title": "Harden webhook signature validation with timing-safe equality",
+      "description": "",
+      "type": "story",
+      "priority": "high",
+      "status": "done",
+      "epic_id": null,
+      "sprint_id": "sprint_1793217220345",
+      "parent_id": null,
+      "assignee_id": null,
+      "reporter_id": "usr_1793212934042",
+      "story_points": 3,
+      "labels": [],
+      "due_date": null,
+      "start_date": null,
+      "release_id": "rel_1793217220380",
+      "custom_fields": {},
+      "id": "wi_1793217220358",
+      "item_key": "DCP-101",
+      "sort_order": 0,
+      "created_at": "2026-10-28T19:53:40.358Z",
+      "updated_at": "2026-10-28T19:59:56.758Z"
+    },
+    {
+      "project_id": "proj_1793213872668",
+      "title": "Configure automated security vulnerability scanner in GitHub Actions workflow",
+      "description": "Created from Sprint Retrospective \"Sprint 30 Retrospective: Velocity & CI/CD Review\":\n\nConfigure automated security vulnerability scanner in GitHub Actions workflow",
+      "type": "task",
+      "priority": "medium",
+      "status": "todo",
+      "epic_id": null,
+      "sprint_id": null,
+      "parent_id": null,
+      "assignee_id": "usr_1793212934042",
+      "reporter_id": "usr_1793212934042",
+      "story_points": null,
+      "labels": [],
+      "due_date": null,
+      "start_date": null,
+      "release_id": null,
+      "custom_fields": {},
+      "id": "wi_1793217220442",
+      "item_key": "DCP-102",
+      "sort_order": 1,
+      "created_at": "2026-10-28T19:53:40.441Z",
+      "updated_at": "2026-10-28T19:53:40.441Z"
+    }
+  ],
+  "checklists": [
+    {
+      "id": "chk_1793215658376",
+      "work_item_id": "wi_1793215658168",
+      "text": "Write integration test specification",
+      "completed": true,
+      "created_at": "2026-10-28T19:27:38.376Z"
+    }
+  ],
+  "dependencies": [],
+  "watchers": [
+    {
+      "id": "wat_1793215658395",
+      "work_item_id": "wi_1793215658168",
+      "user_id": "usr_1793215658081"
+    }
+  ],
+  "comments": [
+    {
+      "id": "com_1793215658179",
+      "work_item_id": "wi_1793215658168",
+      "author_id": "usr_1793215658081",
+      "text": "Great work! Hey @Alex Harper, please review this test specification.",
+      "mentions": [
+        "usr_1793215658099"
+      ],
+      "created_at": "2026-10-28T19:27:38.178Z",
+      "updated_at": "2026-10-28T19:27:38.178Z"
+    }
+  ],
+  "notifications": [
+    {
+      "recipient_id": "usr_1793216974381",
+      "event_type": "task_assigned",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793216977022",
+      "project_id": "proj_1793216974430",
+      "message": "You were assigned to NEXUS-102: Add automated database migration test to GitHub Actions pipeline.",
+      "id": "notif_1793216977022_fokt",
+      "read": false,
+      "created_at": "2026-10-28T19:49:37.022Z"
+    },
+    {
+      "recipient_id": "usr_1793215658099",
+      "event_type": "mention",
+      "entity_type": "comment",
+      "entity_id": "com_1793215658179",
+      "project_id": "proj_1793215658120",
+      "message": "Morgan Avery mentioned you on ADC-101.",
+      "id": "notif_1793215658179_jz4g",
+      "read": false,
+      "created_at": "2026-10-28T19:27:38.179Z"
+    }
+  ],
+  "activity_logs": [
+    {
+      "id": "act_1793217220442",
+      "project_id": "proj_1793213872668",
+      "user_id": "usr_1793212934042",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793217220442",
+      "details": "Created DCP-102: Configure automated security vulnerability scanner in GitHub Actions workflow",
+      "created_at": "2026-10-28T19:53:40.441Z"
+    },
+    {
+      "id": "act_1793217220370",
+      "project_id": "proj_1793213872668",
+      "user_id": "usr_1793212934042",
+      "action": "status_changed",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793217220358",
+      "details": "Moved DCP-101 from \"todo\" to \"done\"",
+      "created_at": "2026-10-28T19:53:40.370Z"
+    },
+    {
+      "id": "act_1793217220358",
+      "project_id": "proj_1793213872668",
+      "user_id": "usr_1793212934042",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793217220358",
+      "details": "Created DCP-101: Harden webhook signature validation with timing-safe equality",
+      "created_at": "2026-10-28T19:53:40.358Z"
+    },
+    {
+      "id": "act_1793216977023",
+      "project_id": "proj_1793216974430",
+      "user_id": "usr_1793216974351",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793216977022",
+      "details": "Created NEXUS-102: Add automated database migration test to GitHub Actions pipeline.",
+      "created_at": "2026-10-28T19:49:37.022Z"
+    },
+    {
+      "id": "act_1793216974490",
+      "project_id": "proj_1793216974430",
+      "user_id": "usr_1793216974351",
+      "action": "status_changed",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793216974479",
+      "details": "Moved NEXUS-101 from \"todo\" to \"done\"",
+      "created_at": "2026-10-28T19:49:34.490Z"
+    },
+    {
+      "id": "act_1793216974479",
+      "project_id": "proj_1793216974430",
+      "user_id": "usr_1793216974351",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793216974479",
+      "details": "Created NEXUS-101: Implement automated changelog generator",
+      "created_at": "2026-10-28T19:49:34.479Z"
+    },
+    {
+      "id": "act_1793215658309",
+      "project_id": "proj_1793215658120",
+      "user_id": "usr_1793215658081",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793215658309",
+      "details": "Created ADC-102: [Defect]: Security bypass on delete route",
+      "created_at": "2026-10-28T19:27:38.309Z"
+    },
+    {
+      "id": "act_1793215658168",
+      "project_id": "proj_1793215658120",
+      "user_id": "usr_1793215658081",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793215658168",
+      "details": "Created ADC-101: Implement Multi-User Real-time Sync",
+      "created_at": "2026-10-28T19:27:38.168Z"
+    },
+    {
+      "id": "act_1793214230011",
+      "project_id": "proj_1793214117775",
+      "user_id": "usr_1793212934042",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793214230011",
+      "details": "Created HOTEL-101: Manage Hotel Room Bookings",
+      "created_at": "2026-10-28T19:03:50.011Z"
+    },
+    {
+      "id": "act_1793212638731",
+      "project_id": "proj_1793212638719",
+      "user_id": "usr_1793212638671",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793212638731",
+      "details": "Created ACE-101: Architect distributed consensus protocol",
+      "created_at": "2026-10-28T18:37:18.731Z"
+    },
+    {
+      "id": "act_1793212515076",
+      "project_id": "proj_1793212515062",
+      "user_id": "usr_1793212515018",
+      "action": "created_work_item",
+      "entity_type": "work_item",
+      "entity_id": "wi_1793212515076",
+      "details": "Created ACE-101: Architect distributed consensus protocol",
+      "created_at": "2026-10-28T18:35:15.076Z"
+    },
+    {
+      "id": "act_1793216974536",
+      "project_id": "proj_1793216974430",
+      "user_id": "usr_1793216974351",
+      "action": "published_release",
+      "entity_type": "release",
+      "entity_id": "rel_1793216974505",
+      "details": "Published release Nexus Core 1.0.0 (v1.0.0)",
+      "created_at": "2026-10-28T19:49:34.536Z"
+    },
+    {
+      "id": "act_1793217220402",
+      "project_id": "proj_1793213872668",
+      "user_id": "usr_1793212934042",
+      "action": "published_release",
+      "entity_type": "release",
+      "entity_id": "rel_1793217220380",
+      "details": "Published release Stride v3.0 Production Release (v3.0.0)",
+      "created_at": "2026-10-28T19:53:40.402Z"
+    }
+  ],
+  "workflow_statuses": [],
+  "saved_views": [],
+  "objectives": [
+    {
+      "project_id": "proj_1793215658120",
+      "title": "Achieve 99.9% Test Automation Coverage",
+      "description": "Ensure regression stability before production cutover",
+      "category": "Engineering",
+      "status": "on_track",
+      "start_date": "2026-10-28",
+      "due_date": "2027-01-26",
+      "owner_id": "usr_1793215658081",
+      "id": "obj_1793215658346",
+      "created_at": "2026-10-28T19:27:38.346Z"
+    }
+  ],
+  "key_results": [
+    {
+      "title": "Automate 50 integration test cases",
+      "target_value": 50,
+      "current_value": 25,
+      "unit": "cases",
+      "id": "kr_1793215658352",
+      "objective_id": "obj_1793215658346"
+    }
+  ],
+  "time_entries": [
+    {
+      "project_id": "proj_1793213872668",
+      "work_item_id": null,
+      "user_id": "usr_1793212934042",
+      "date": "2026-10-28",
+      "duration_minutes": 1,
+      "description": "Quick work session on Dev Core Project",
+      "id": "te_1793214068418",
+      "created_at": "2026-10-28T19:01:08.418Z"
+    },
+    {
+      "project_id": "proj_1793215658120",
+      "work_item_id": "wi_1793215658168",
+      "user_id": "usr_1793215658081",
+      "date": "2026-10-28",
+      "duration_minutes": 1,
+      "description": "Live test implementation session",
+      "id": "te_1793215658220",
+      "created_at": "2026-10-28T19:27:38.220Z"
+    },
+    {
+      "project_id": "proj_1793215658120",
+      "work_item_id": "wi_1793215658168",
+      "user_id": "usr_1793215658081",
+      "date": "2026-10-28",
+      "duration_minutes": 120,
+      "description": "Engineered full-stack security and auth",
+      "id": "te_1793215658236",
+      "created_at": "2026-10-28T19:27:38.236Z"
+    }
+  ],
+  "active_timers": [],
+  "project_budgets": [
+    {
+      "project_id": "proj_1793212515062",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793212638719",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793213872668",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793214117775",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793215658120",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793216451303",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793216451320",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    },
+    {
+      "project_id": "proj_1793216974452",
+      "total_budget": 50000,
+      "currency": "USD",
+      "hourly_rate": 75
+    }
+  ],
+  "expenses": [
+    {
+      "project_id": "proj_1793214117775",
+      "amount": 2222.3,
+      "currency": "USD",
+      "category": "Cloud Infrastructure",
+      "description": "Supabase",
+      "date": "2026-10-30",
+      "submitter_id": "usr_1793212934042",
+      "receipt_url": "INV 2026 - 3343",
+      "id": "exp_1793214633909",
+      "status": "approved",
+      "created_at": "2026-10-28T19:10:33.909Z"
+    },
+    {
+      "project_id": "proj_1793215658120",
+      "amount": 500,
+      "currency": "USD",
+      "category": "Software Licenses",
+      "description": "Performance monitoring tool license",
+      "date": "2026-10-28",
+      "submitter_id": "usr_1793215658081",
+      "receipt_url": null,
+      "id": "exp_1793215658256",
+      "status": "approved",
+      "created_at": "2026-10-28T19:27:38.256Z"
+    }
+  ],
+  "test_suites": [
+    {
+      "project_id": "proj_1793215658120",
+      "title": "Security & Access Control Suite",
+      "description": "Regression tests for role-based permissions",
+      "id": "ts_1793215658288",
+      "created_at": "2026-10-28T19:27:38.288Z"
+    }
+  ],
+  "test_cases": [
+    {
+      "project_id": "proj_1793215658120",
+      "suite_id": "ts_1793215658288",
+      "title": "Verify unauthorized user cannot delete projects",
+      "description": "Check that HTTP 403 Forbidden is returned for Developer role",
+      "preconditions": "User authenticated with Developer role",
+      "steps": "1. Send DELETE /api/projects/:id",
+      "expected_result": "Response status is 403 Forbidden",
+      "priority": "critical",
+      "id": "tc_1793215658296",
+      "created_at": "2026-10-28T19:27:38.296Z"
+    }
+  ],
+  "test_runs": [
+    {
+      "id": "tr_1793215658302",
+      "project_id": "proj_1793215658120",
+      "title": "Release 1.0 Acceptance Cycle",
+      "status": "in_progress",
+      "created_at": "2026-10-28T19:27:38.302Z"
+    }
+  ],
+  "test_executions": [
+    {
+      "id": "tex_1793215658310",
+      "test_run_id": "tr_1793215658302",
+      "test_case_id": "tc_1793215658296",
+      "status": "fail",
+      "actual_result": "Expected 403 Forbidden, but received 200 OK",
+      "defect_id": "wi_1793215658309",
+      "executed_by": "usr_1793215658081",
+      "executed_at": "2026-10-28T19:27:38.310Z"
+    }
+  ],
+  "risks": [
+    {
+      "project_id": "proj_1793215658120",
+      "title": "Third-party notification service rate limit exhaustion",
+      "description": "High volume of events might exhaust email quotas",
+      "category": "technical",
+      "probability": 2,
+      "impact": 3,
+      "mitigation_plan": "Implement queue buffering and backoff",
+      "contingency_plan": "",
+      "status": "mitigated",
+      "owner_id": null,
+      "review_date": null,
+      "id": "risk_1793215658320",
+      "severity_score": 6,
+      "created_at": "2026-10-28T19:27:38.320Z"
+    }
+  ],
+  "releases": [
+    {
+      "project_id": "proj_1793215658120",
+      "name": "Sprint 14 Feature Release",
+      "version": "1.2.0",
+      "description": "Includes multi-user collaboration and QA management",
+      "target_date": "2026-11-15",
+      "status": "planned",
+      "git_tag": "v1.2.0",
+      "work_item_ids": [
+        "wi_1793215658168"
+      ],
+      "id": "rel_1793215658334",
+      "created_at": "2026-10-28T19:27:38.334Z"
+    },
+    {
+      "project_id": "proj_1793216451303",
+      "name": "Nexus Core 1.0.0",
+      "version": "1.0.0",
+      "description": "Initial production milestone",
+      "target_date": "2026-11-04T19:40:51.350Z",
+      "status": "planned",
+      "git_tag": "v1.0.0",
+      "work_item_ids": [
+        null
+      ],
+      "id": "rel_1793216451354",
+      "created_at": "2026-10-28T19:40:51.354Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "name": "Nexus Core 1.0.0",
+      "version": "1.0.0",
+      "description": "Initial production milestone",
+      "target_date": "2026-11-04T19:49:34.497Z",
+      "status": "released",
+      "git_tag": "v1.0.0",
+      "work_item_ids": [
+        "wi_1793216974479"
+      ],
+      "id": "rel_1793216974505",
+      "created_at": "2026-10-28T19:49:34.505Z",
+      "changelog": [
+        {
+          "title": "New Features & User Stories",
+          "items": [
+            {
+              "id": "wi_1793216974479",
+              "item_key": "NEXUS-101",
+              "title": "Implement automated changelog generator",
+              "type": "story",
+              "priority": "high"
+            }
+          ]
+        }
+      ],
+      "release_notes": "## Release Notes: Nexus Core 1.0.0 (v1.0.0)\n\n**Target Release Date:** 2026-11-04T19:49:34.497Z\n\nInitial production milestone\n\n### Deliverables Summary\n- **Total Deliverables:** 1\n- **Features/Stories:** 1\n- **Bugs Resolved:** 0\n- **Tasks Completed:** 0\n\n### New Features & User Stories\n- **[NEXUS-101]** Implement automated changelog generator (high)\n\n",
+      "published_at": "2026-10-28T19:49:34.536Z",
+      "published_by": "usr_1793216974351"
+    },
+    {
+      "project_id": "proj_1793213872668",
+      "name": "Stride v3.0 Production Release",
+      "version": "3.0.0",
+      "description": "Major release containing advanced integrations and team collaboration",
+      "target_date": "2026-11-04T19:53:40.377Z",
+      "status": "released",
+      "git_tag": "v3.0.0",
+      "work_item_ids": [
+        "wi_1793217220358"
+      ],
+      "id": "rel_1793217220380",
+      "created_at": "2026-10-28T19:53:40.380Z",
+      "changelog": [
+        {
+          "title": "New Features & User Stories",
+          "items": [
+            {
+              "id": "wi_1793217220358",
+              "item_key": "DCP-101",
+              "title": "Harden webhook signature validation with timing-safe equality",
+              "type": "story",
+              "priority": "high"
+            }
+          ]
+        }
+      ],
+      "release_notes": "## Release Notes: Stride v3.0 Production Release (v3.0.0)\n\n**Target Release Date:** 2026-11-04T19:53:40.377Z\n\nMajor release containing advanced integrations and team collaboration\n\n### Deliverables Summary\n- **Total Deliverables:** 1\n- **Features/Stories:** 1\n- **Bugs Resolved:** 0\n- **Tasks Completed:** 0\n\n### New Features & User Stories\n- **[DCP-101]** Harden webhook signature validation with timing-safe equality (high)\n\n",
+      "published_at": "2026-10-28T19:53:40.402Z",
+      "published_by": "usr_1793212934042"
+    }
+  ],
+  "custom_fields": [],
+  "templates": [],
+  "automation_rules": [
+    {
+      "project_id": "proj_1793215658120",
+      "name": "Notify Tech Lead on Test Failure",
+      "description": "Sends high priority alert when automated run fails",
+      "trigger": "test_failed",
+      "action": {
+        "type": "create_notification",
+        "value": "Alert: Automated regression test failed."
+      },
+      "enabled": false,
+      "id": "rule_1793215658364",
+      "execution_count": 0
+    }
+  ],
+  "automation_logs": [],
+  "integration_configs": [
+    {
+      "project_id": "proj_1793216451303",
+      "provider": "github",
+      "repo_owner": "stride-org",
+      "repo_name": "stride-core",
+      "access_token": "ghp_dummy",
+      "webhook_secret": "test_webhook_hmac_secret_456",
+      "status": "auth_expired",
+      "id": "int_1793216451417",
+      "created_at": "2026-10-28T19:40:51.417Z",
+      "updated_at": "2026-10-28T19:40:52.317Z",
+      "last_error": "Bad credentials"
+    },
+    {
+      "project_id": "proj_1793216451303",
+      "provider": "gitlab",
+      "repo_owner": "gitlab-group",
+      "repo_name": "gitlab-repo",
+      "api_url": "https://gitlab.com/api/v4",
+      "access_token": "glpat_fakeInvalidSecretToken987654",
+      "webhook_secret": "gitlab_secret_token_123",
+      "status": "disconnected",
+      "id": "int_1793216452301",
+      "created_at": "2026-10-28T19:40:52.301Z",
+      "updated_at": "2026-10-28T19:40:52.301Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "provider": "gitlab",
+      "repo_owner": "gitlab-group",
+      "repo_name": "gitlab-repo",
+      "api_url": "https://gitlab.com/api/v4",
+      "access_token": "glpat_fakeInvalidSecretToken987654",
+      "webhook_secret": "gitlab_secret_token_123",
+      "status": "disconnected",
+      "id": "int_1793216976732",
+      "created_at": "2026-10-28T19:49:36.732Z",
+      "updated_at": "2026-10-28T19:49:36.732Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "provider": "github",
+      "repo_owner": "stride-org",
+      "repo_name": "stride-core",
+      "access_token": "ghp_dummy",
+      "webhook_secret": "test_webhook_hmac_secret_456",
+      "status": "disconnected",
+      "id": "int_1793216976758",
+      "created_at": "2026-10-28T19:49:36.758Z",
+      "updated_at": "2026-10-28T19:49:36.758Z"
+    }
+  ],
+  "git_links": [
+    {
+      "project_id": "proj_1793216974430",
+      "provider": "github",
+      "work_item_id": "wi_1793216974479",
+      "link_type": "commit",
+      "external_id": "a1b2c3d",
+      "title": "Fix critical issue for NEXUS-101 in core engine",
+      "url": "https://github.com/stride-org/stride-core/commit/a1b2c3d4e5f6",
+      "author": "Jordan Reed",
+      "id": "git_1793216976844_03wpm",
+      "created_at": "2026-10-28T19:49:36.844Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "work_item_id": "wi_1793216974479",
+      "provider": "github",
+      "link_type": "branch",
+      "external_id": "feature/nexus-devops-core",
+      "title": "feature/nexus-devops-core",
+      "status": "open",
+      "url": "https://github.com/stride-org/stride-core/tree/feature/nexus-devops-core",
+      "author": "Jordan Reed",
+      "id": "git_1793216976862_sqlway",
+      "created_at": "2026-10-28T19:49:36.862Z"
+    },
+    {
+      "project_id": "proj_1793213872668",
+      "work_item_id": "wi_1793217220358",
+      "provider": "github",
+      "link_type": "pull_request",
+      "external_id": "#105",
+      "title": "feat: Release Notes and DevOps integrations",
+      "status": "open",
+      "url": "https://github.com/stride-org/stride-core/pull/105",
+      "author": "Mirthusha",
+      "id": "git_1793217220482_el0g3",
+      "created_at": "2026-10-28T19:53:40.482Z"
+    }
+  ],
+  "processed_events": [
+    {
+      "id": "evt_1793216976795_mvvjrb",
+      "event_id": "delivery-uuid-valid-100",
+      "provider": "github",
+      "received_at": "2026-10-28T19:49:36.795Z"
+    },
+    {
+      "id": "evt_1793216976808_cidmrh",
+      "event_id": "delivery-unique-idempotent-555",
+      "provider": "github",
+      "received_at": "2026-10-28T19:49:36.808Z"
+    },
+    {
+      "id": "evt_1793216976842_swh9t",
+      "event_id": "delivery-commit-1793216976838",
+      "provider": "github",
+      "received_at": "2026-10-28T19:49:36.842Z"
+    }
+  ],
+  "pipeline_executions": [
+    {
+      "project_id": "proj_1793216974430",
+      "provider": "generic",
+      "pipeline_id": "Production Build & Lint",
+      "pipeline_name": "Production Build & Lint",
+      "branch": "main",
+      "commit_sha": "c7d8e9f01234567890abcdef",
+      "status": "success",
+      "triggered_by": "CI Webhook",
+      "web_url": "https://ci.stride.org/builds/1042",
+      "id": "pipe_1793216976878",
+      "started_at": "2026-10-28T19:49:36.878Z"
+    },
+    {
+      "project_id": "proj_1793216451303",
+      "provider": "generic",
+      "pipeline_id": "run_1793216452403",
+      "pipeline_name": "Automated Build & Test",
+      "branch": "main",
+      "commit_sha": "e40226b",
+      "status": "in_progress",
+      "triggered_by": "Jordan Reed",
+      "id": "pipe_1793216452403",
+      "started_at": "2026-10-28T19:40:52.403Z"
+    }
+  ],
+  "discussions": [
+    {
+      "workspace_id": "ws_1793213860217",
+      "channel_type": "project",
+      "channel_id": "devops-and-qa",
+      "user_id": "usr_1793212934042",
+      "content": "Production release v3.0 has been prepared with full test verification.",
+      "id": "disc_1793217220454",
+      "edited": false,
+      "created_at": "2026-10-28T19:53:40.454Z",
+      "updated_at": "2026-10-28T19:53:40.454Z"
+    },
+    {
+      "workspace_id": "ws_1793213860217",
+      "project_id": "proj_1793214117775",
+      "channel_type": "team",
+      "channel_id": "general",
+      "user_id": "usr_1793212934042",
+      "content": "hii",
+      "id": "disc_1793217937338",
+      "edited": false,
+      "created_at": "2026-10-28T20:05:37.338Z",
+      "updated_at": "2026-10-28T20:05:37.338Z"
+    }
+  ],
+  "retrospectives": [
+    {
+      "project_id": "proj_1793216451303",
+      "sprint_id": "sprint_1793216451331",
+      "title": "Sprint 24 Retrospective: Pipeline Velocity",
+      "status": "active",
+      "id": "retro_1793216452457",
+      "created_at": "2026-10-28T19:40:52.457Z"
+    },
+    {
+      "project_id": "proj_1793216974430",
+      "sprint_id": "sprint_1793216974465",
+      "title": "Sprint 24 Retrospective: Pipeline Velocity",
+      "status": "active",
+      "id": "retro_1793216976969",
+      "created_at": "2026-10-28T19:49:36.969Z"
+    },
+    {
+      "project_id": "proj_1793213872668",
+      "sprint_id": "sprint_1793217220345",
+      "title": "Sprint 30 Retrospective: Velocity & CI/CD Review",
+      "status": "active",
+      "id": "retro_1793217220414",
+      "created_at": "2026-10-28T19:53:40.414Z"
+    }
+  ],
+  "retrospective_items": [
+    {
+      "retrospective_id": "retro_1793216452457",
+      "category": "went_well",
+      "user_id": "usr_1793216451267",
+      "content": "CI/CD pipeline test run velocity improved by 40%.",
+      "id": "ritem_1793216452467",
+      "votes": 0,
+      "voted_user_ids": [],
+      "created_at": "2026-10-28T19:40:52.467Z"
+    },
+    {
+      "retrospective_id": "retro_1793216452457",
+      "category": "not_well",
+      "user_id": "usr_1793216451267",
+      "content": "Database indexing took longer than estimated during deployment.",
+      "id": "ritem_1793216452475",
+      "votes": 0,
+      "voted_user_ids": [],
+      "created_at": "2026-10-28T19:40:52.475Z"
+    },
+    {
+      "retrospective_id": "retro_1793216452457",
+      "category": "action_item",
+      "user_id": "usr_1793216451246",
+      "content": "Add automated database migration test to GitHub Actions pipeline.",
+      "id": "ritem_1793216452483",
+      "votes": 0,
+      "voted_user_ids": [],
+      "created_at": "2026-10-28T19:40:52.483Z"
+    },
+    {
+      "retrospective_id": "retro_1793216976969",
+      "category": "went_well",
+      "user_id": "usr_1793216974381",
+      "content": "CI/CD pipeline test run velocity improved by 40%.",
+      "id": "ritem_1793216976979",
+      "votes": 0,
+      "voted_user_ids": [],
+      "created_at": "2026-10-28T19:49:36.979Z"
+    },
+    {
+      "retrospective_id": "retro_1793216976969",
+      "category": "not_well",
+      "user_id": "usr_1793216974381",
+      "content": "Database indexing took longer than estimated during deployment.",
+      "id": "ritem_1793216976990",
+      "votes": 0,
+      "voted_user_ids": [],
+      "created_at": "2026-10-28T19:49:36.990Z"
+    },
+    {
+      "retrospective_id": "retro_1793216976969",
+      "category": "action_items",
+      "user_id": "usr_1793216974351",
+      "content": "Add automated database migration test to GitHub Actions pipeline.",
+      "action_assignee_id": "usr_1793216974381",
+      "action_status": "in_progress",
+      "id": "ritem_1793216976998",
+      "votes": 1,
+      "voted_user_ids": [
+        "usr_1793216974381"
+      ],
+      "created_at": "2026-10-28T19:49:36.998Z",
+      "converted_work_item_id": "wi_1793216977022"
+    },
+    {
+      "retrospective_id": "retro_1793217220414",
+      "category": "action_items",
+      "user_id": "usr_1793212934042",
+      "content": "Configure automated security vulnerability scanner in GitHub Actions workflow",
+      "action_assignee_id": "usr_1793212934042",
+      "action_status": "in_progress",
+      "id": "ritem_1793217220426",
+      "votes": 1,
+      "voted_user_ids": [
+        "usr_1793212934042"
+      ],
+      "created_at": "2026-10-28T19:53:40.426Z",
+      "converted_work_item_id": "wi_1793217220442"
+    }
+  ]
+}
